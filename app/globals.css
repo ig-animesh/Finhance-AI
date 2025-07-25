@@ -120,3 +120,8 @@
     @apply bg-background text-foreground;
   }
 }
+
+
+body {
+  @apply bg-blue-100 text-black;
+}
